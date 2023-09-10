@@ -1,0 +1,28 @@
+.avatar {
+    vertical-align: middle; 
+    width: 290px; 
+    height: 290px; 
+    border-radius: 50%;
+    margin-top: 30px !important;
+}
+
+.upload {
+    margin-left: 36% !important;
+    margin-top: 3% !important;
+}
+
+.username {
+    margin-top: 20px !important;
+    color: #282c34;
+}
+
+.quote_head {
+    margin-top: 30px !important;
+    text-decoration: underline;
+    color: #282c34;
+    font-size: 45px !important;
+}
+
+.The_Line {
+    margin-top: 25px !important;
+}
