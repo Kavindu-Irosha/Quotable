@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quotable/static/css/main.bff2435f.css",
+    "main.js": "/Quotable/static/js/main.894ca955.js",
+    "static/js/787.00b4b82c.chunk.js": "/Quotable/static/js/787.00b4b82c.chunk.js",
+    "index.html": "/Quotable/index.html",
+    "main.bff2435f.css.map": "/Quotable/static/css/main.bff2435f.css.map",
+    "main.894ca955.js.map": "/Quotable/static/js/main.894ca955.js.map",
+    "787.00b4b82c.chunk.js.map": "/Quotable/static/js/787.00b4b82c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff2435f.css",
+    "static/js/main.894ca955.js"
+  ]
+}
